@@ -1,3 +1,5 @@
 This is a text file
 
-Added some more content
+Added content
+
+And some other work over here
